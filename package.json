@@ -2,14 +2,14 @@
   "name": "XBOT",
   "version": "1.0.0",
   "description": "Xbot for whatsapp online with termux",
-  "main": "index.js",
+  "main": "sc.js",
   "directories": {
     "lib": "lib"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node index",
-    "play": "nodemon index"
+    "start": "node sc",
+    "play": "nodemon sc"
   },
   "keywords": [
     "k"
